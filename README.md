@@ -8,7 +8,7 @@ Version 1 has following limitations:
 
 (3) Algorithm for fitting words could be improved. At the moment it will always try and fit the largest possible word, which leads to the same words appearing more often than you would expect from a list of 17,000 words.
 
-(4) Words are thrown down randomly and only after a certain number of tries do we check if the grid is "connected" using the Hoshen-Kopeleman algorithm. If it's not, I just clear the grid and try again. This is fine for small crosswords, but as they get bigger (> 25x25) this can make the process very slow.
+(4) Words are thrown down randomly and only after a certain number of tries do we check if the grid is "connected" using the Hoshen-Kopeleman algorithm. If it's not, I just clear the grid and try again. This is fine for small crosswords, but as they get bigger (> 30x30) this can make the process very slow.
 
   
    
