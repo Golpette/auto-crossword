@@ -1,4 +1,4 @@
-Program to auto-generate crosswords.
+Program to auto-generate crosswords.   "CrosswordGenerator" is the program you need to run.
 
 Version 1 has following limitations:   
 
